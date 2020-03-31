@@ -1,0 +1,15 @@
+{
+  "serverless": {
+    "provider": "aws",
+    "project": "UI-Client",
+    "skipInstall": false,
+    "directory": ".",
+    "lambdaTS": false,
+    "offline": false,
+    "clientProject": "UI-Client",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
